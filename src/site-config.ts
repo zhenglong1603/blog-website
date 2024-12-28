@@ -39,7 +39,7 @@ export const siteConfig = {
   ],
   header: {
     logo: {
-      src: 'avatar-laptop.png',
+      src: '/avatar-laptop.png',
       alt: 'Logo Image',
     },
     navLinks: [
