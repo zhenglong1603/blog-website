@@ -1,7 +1,8 @@
 ---
-title: Blog Title
-description: Your blog description, which is long text, can be an introduction to the post or a paragraph of the post.
-date: 2024-05-01
+title: My Updated Blog
+description: A blog about how to edit content in Astro.
+date: 2024-06-01
 ---
+Welcome to my blog! Here's how to edit posts in Astro.
 
-Use [Vitesse Them for Astro](https://astro.build/themes/details/vitesse-theme-for-astro/) to start writing your blog posts.
+This is where your content goes. You can use Markdown for headings, lists, images, and more.
